@@ -1,5 +1,5 @@
 ## 1.0.2
-- Correction de bug mineure sur la detection de l'UC
+- Correction de bug mineure sur la détection de l'UC
 - Amélioration des performances globales
 
 ## 1.0.1 
