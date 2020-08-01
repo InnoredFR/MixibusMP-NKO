@@ -1,3 +1,7 @@
+## 1.0.4
+- Amélioration de la gestion du système HVAC
+- Optimisation des performances
+  
 ## 1.0.3
 - Ajout de la gestion des thermostats de clim
 
